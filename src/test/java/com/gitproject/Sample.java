@@ -26,4 +26,9 @@ public class Sample {
 		System.out.println("kishore added method 6");
 
 	}
+	private void s7() {
+		System.out.println("kishore added method 7");
+
+	}
+	
 }
